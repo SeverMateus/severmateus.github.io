@@ -30,7 +30,7 @@ force-https: True
 
 lang: "en"
 author: "Severino Mateus Jr"
-title: "{ Severino Mateus Jr }"
+title: "{ Severino Mateus }"
 description: "Blog and website of John Smith, blogging mainly for tech. Opinions expressed are mine."
 keywords: "mateus, jones, personal, jekyll, theme"
 favicon: "/img/favicon.ico"
@@ -58,7 +58,7 @@ lines: # You can add HTML Tags in the Text
   - text: "The lower you fall, the higher you'll fly."
   - text: "Where’s your will to be weird?"
 
-me-img: "/img/jetpacktocat.png"
+me-img: "/img/author.png"
 
 ##############################
 # Color the browser elements #
