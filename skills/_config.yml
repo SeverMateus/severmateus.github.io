@@ -169,7 +169,7 @@ highlighter: rouge
 sitemap: true # Generate sitemap.xml
 
 sass:
-  sass_dir: css
+  sass_dir: skills/css
   style: compressed
 ## For more settings: https://jekyllrb.com/docs/configuration/
 
