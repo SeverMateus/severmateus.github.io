@@ -31,8 +31,8 @@ force-https: True
 lang: "en"
 author: "Severino Mateus Jr"
 title: "{ Severino Mateus }"
-description: "Blog and website of John Smith, blogging mainly for tech. Opinions expressed are mine."
-keywords: "mateus, jones, personal, jekyll, theme"
+description: "Blog and website of Severino Mateus Jr, blogging mainly for tech. Opinions expressed are mine."
+keywords: "mateus, severino, engineer, developer"
 favicon: "/img/favicon.ico"
 
 ################
@@ -55,8 +55,9 @@ type-speed: 10
 start-delay: 200
 delete-delay: 5000
 lines: # You can add HTML Tags in the Text
-  - text: "The lower you fall, the higher you'll fly."
-  - text: "Where’s your will to be weird?"
+  - text: "Don't Stop. Never."
+  - text: "Look Above Horizons. Everything is achieveable."
+  - text: "When you think it is over, you can always find another way forward."
 
 me-img: "/img/author.png"
 
@@ -102,7 +103,7 @@ pinterest-share: True
 pocket-share: True
 vkontakte-share: True
 
-disqus-shortname: "severmates"
+disqus-shortname: "severmateus"
 
 syntax-highlight: True
 
