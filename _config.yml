@@ -112,12 +112,21 @@ syntax-highlight: True
 ############
 
 events:
-  - image: "/img/timeline/spidertocat.png"
-    date: "September 2013 - Today"
-    description: "Saving the neighborhood!"
-  - image: "/img/timeline/baracktocat.jpg"
-    date: "September 2007 - August 2013"
-    description: "Started coding"
+  - image: "/img/timeline/barclays.jpg"
+    date: "September 2015 - Today"
+    description: "SharePoint Developer @ Barclays Bank Mozambique (working as an consultant)"
+  - image: "/img/timeline/baracktocat.png"
+    date: "April 2015 - Today"
+    description: "Web Developer @ Marrar"
+  - image: "/img/timeline/baracktocat.png"
+    date: "April 2014 - Today"
+    description: "IT Support @ OM Adovgados, SU"
+  - image: "/img/timeline/afrigotel.png"
+    date: "November 2013 - Today"
+    description: "IT Support @ Afrigotel, Armazenagem Frigorifica Lda"
+  - image: "/img/timeline/uem.jpg"
+    date: "February 2012 - July 2016"
+    description: "Bachelor studies @ Department of Electrotecnic Engineering on Computer Science - Eduardo Mondlane University"
 
 # First image of the Timeline
 
@@ -137,7 +146,7 @@ email: "severmateus@gmail.com"
 # This works best when your author blurb image has a transparent background, or matches your site background color.
 
 # if the author_blurb is not set, then this feature is skipped
-author_blurb: "John Smith is an awesome person. He lives in Flatland, where he works on two-dimensional engineering projects. In his spare time, John likes to eat cotton candy."
+author_blurb: "Severino Mateus is an awesome person. He lives in Maputo, where he works on Android projects. In his spare time, Severino likes to eat hamburguers."
 author_blurb_image: "/img/author.png"
 
 ##################
@@ -146,13 +155,15 @@ author_blurb_image: "/img/author.png"
 
 social:
   - title: "facebook"
-    url: "https://facebook.com/"
+    url: "https://www.facebook.com/MoZ.Sevas"
   - title: "twitter"
-    url: "https://twitter.com/"
+    url: "https://twitter.com/severmateus"
   - title: "github"
-    url: "https://github.com/PanosSakkos/personal-jekyll-theme"
-  - title: "bitcoin"
-    url: "https://blockchain.info/address/1LHuKC9Em3KA5yoZaf7nngnNdf9K7s2gSi"
+    url: "https://github.com/SeverMateus"
+  # - title: "bitcoin"
+  #   url: "https://blockchain.info/address/1GfTNPmxAzS2CWvm9ZcEvUbARNPne7c5Vr"
+  - title: "linkedin"
+    url: "https://www.linkedin.com/in/severinomateus"
   - title: "rss"
     url: "/feed.xml"
 
@@ -166,7 +177,7 @@ social:
 # GPG on Keybase #
 ##################
 
-keybase-username: johnsmith
+keybase-username: severmateus
 keybase-in-social: True
 keybase-in-footer: True
 
